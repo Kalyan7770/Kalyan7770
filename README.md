@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Full Stack Developer | BE Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%28MERN+Stack%29;BE+Computer+Engineering+Student;Frontend+%2B+Backend+Developer;Building+Scalable+Web+Applications" />
 </p>
+
 
 ---
 
